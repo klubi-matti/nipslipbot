@@ -1,3 +1,3 @@
 # nipslipbot
 
-Testtesettesetsetfdfdfdsetset
+Awesome bot that does nothing (currently).
